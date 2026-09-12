@@ -12,7 +12,7 @@
 | Curso / Disciplina | Computabilidade e Complexidade de Algoritmos / Ciência da Computação |
 | Projeto de Pesquisa / IC | Complexidade e escalabilidade de algoritmos de busca vetorial em chatbots RAG para suporte de TI |
 | Orientador(a) | Andrea Ono Sakai |
-| Data de entrega desta etapa | `[dd/mm/aaaa]` |
+| Data de entrega desta etapa | 12/09/2026 |
 | Integrantes do grupo | Caio Siqueira Santos, Elton Dos Santos Rodrigues, Fillipy Mendes Vilela, Leonardo Masanao, Leonel Santos Caires, Matheus Henrique da Trindade |
 | Tema (da etapa "a") | Análise comparativa de complexidade, escalabilidade, uso de memória e qualidade dos algoritmos de busca vetorial (k-NN exato, HNSW e IVF) em sistemas RAG para suporte interno de TI. |
 
