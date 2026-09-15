@@ -49,7 +49,7 @@
 |---|---|---|---|
 | 1 | "RAG" OR "Retrieval-Augmented Generation" AND "busca vetorial" OR "busca semântica" OR "vector search" AND "latência" OR "latency" OR "recall" | SBC Open Lib | Leonel / Leonardo |
 | 2 | "HNSW" OR "hierarchical navigable small world" AND "graph" OR "clustering" OR "Canopy" AND "complexidade" OR "complexity" OR "recall" | SBC Open Lib, IEEE Xplore | Caio / Matheus |
-| 3 | "similarity search" OR "k-NN" OR "IVF" AND "GPU" OR "acceleration" OR "FAISS" OR "memory" | ResearchGate | Filipy / Elton |
+| 3 | "similarity search" OR "k-NN" OR "IVF" AND "GPU" OR "acceleration" OR "FAISS" OR "memory" | ResearchGate | Fillipy / Elton |
 
 ---
 
@@ -61,7 +61,7 @@
 |---|---|---|
 | SBC Open Lib | Repositório oficial da Sociedade Brasileira de Computação, essencial para recuperar artigos nacionais recentes em anais de eventos consolidados (SBSI, ENIAC, ERIGO) sobre RAG e busca vetorial. | Leonardo |
 | arXiv | Principal repositório de pré-prints de Ciência da Computação, onde são publicados os trabalhos seminais de código aberto em primeira mão (ex.: FAISS do Facebook AI Research). | Leonel e Caio |
-| ResearchGate / IEEE Xplore | Plataforma acadêmica para acesso e compartilhamento das versões integrais de artigos avaliados por pares em periódicos internacionais de alto impacto (ex.: IEEE TPAMI para o HNSW). | Filipy |
+| ResearchGate / IEEE Xplore | Plataforma acadêmica para acesso e compartilhamento das versões integrais de artigos avaliados por pares em periódicos internacionais de alto impacto (ex.: IEEE TPAMI para o HNSW). | Fillipy |
 
 ---
 
@@ -81,7 +81,7 @@
 - Resumos estendidos, pôsteres sem validação experimental ou artigos sem acesso integral;
 - Duplicatas entre bases bibliográficas.
 
-*Definidos em conjunto por: Caio, Elton, Filipy, Leonardo, Leonel, Matheus*
+*Definidos em conjunto por: Caio, Elton, Fillipy, Leonardo, Leonel, Matheus*
 
 ---
 
@@ -120,7 +120,7 @@
 **Como as dúvidas foram resolvidas?** *(ex.: discussão em grupo, consulta ao orientador)*
 Após a remoção das 2 duplicatas, o grupo avaliou os 12 artigos únicos por título e resumo. O único artigo classificado como "Dúvida" foi discutido pela equipe para verificar se apresentava métricas de latência e complexidade de busca vetorial; com a confirmação desses dados na metodologia, ele foi promovido para inclusão, totalizando 7 artigos encaminhados para leitura completa.
 
-*Responsável(is) por esta triagem: Leonel, Caio, Matheus, Filipy e Leonardo*
+*Responsável(is) por esta triagem: Leonel, Caio, Matheus, Fillipy e Leonardo*
 
 ---
 
@@ -138,7 +138,7 @@ Após a remoção das 2 duplicatas, o grupo avaliou os 12 artigos únicos por t�
 - Artigo com foco apenas na engenharia de prompt do chatbot, sem análise da estrutura de indexação vetorial (1 artigo);
 - Artigo com testes preliminares em datasets proprietários sem detalhamento de memória ou complexidade assintótica (1 artigo).
 
-*Responsável(is) por esta triagem: Elton, Leonel, Caio, Filipy e Leonardo*
+*Responsável(is) por esta triagem: Elton, Leonel, Caio, Fillipy e Leonardo*
 
 ---
 
@@ -203,7 +203,7 @@ Após a remoção das 2 duplicatas, o grupo avaliou os 12 artigos únicos por t�
 | Passo | Responsável(is) | % estimado de participação de cada um |
 |---|---|---|
 | 1. Pergunta e palavras-chave | Leonel, Leonardo e Caio | Leonel 33%, Leonardo 34%, Caio 33% |
-| 2. Strings de busca | Leonel, Leonardo, Caio, Matheus, Filipy, Elton | Leonel 20%, Leonardo 24%, Caio 24%, Matheus 6%, Fillipy 20%, Elton 6% |
+| 2. Strings de busca | Leonel, Leonardo, Caio, Matheus, Fillipy, Elton | Leonel 20%, Leonardo 24%, Caio 24%, Matheus 6%, Fillipy 20%, Elton 6% |
 | 3. Bases de dados | Leonardo, Leonel, Caio, Fillipy | Leonardo 30%, Leonel 25%, Caio 25%, Fillipy 20% |
 | 4. Critérios de inclusão/exclusão | Caio, Elton, Fillipy, Leonardo, Leonel, Matheus | Caio 22%, Elton 7%, Fillipy 22%, Leonardo 22%, Leonel 20%, Matheus 7% |
 | 5. Execução das buscas | Leonel, Matheus, Leonardo, Caio | Leonel 30%, Matheus 25%, Leonardo 25%, Caio 20% |
