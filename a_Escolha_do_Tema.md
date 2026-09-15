@@ -1,9 +1,3 @@
-# Etapa (a) — Escolha do Tema
-
-> **Como preencher:** este documento deve ser preenchido **em conjunto pelo grupo**, mas com registro individualizado da contribuição de cada integrante. Substitua os campos entre `[ ]` pelas informações do seu grupo. Não apague as instruções em itálico — elas ajudam na avaliação do orientador.
-
----
-
 ## 1. Identificação do Grupo
 
 | Campo | Informação |
