@@ -1,9 +1,3 @@
-# Etapa (b) — Levantamento Bibliográfico
-
-> **Como preencher:** este documento deve ser preenchido **em conjunto pelo grupo**, mas com registro individualizado da contribuição de cada integrante em cada passo. Substitua os campos entre `[ ]` pelas informações do seu grupo. Não apague as instruções em itálico — elas ajudam na avaliação do orientador.
-
----
-
 ## 1. Identificação do Grupo
 
 | Campo | Informação |
@@ -117,7 +111,7 @@
 
 *A triagem detalhada, artigo por artigo, deve ser registrada na planilha de controle do projeto (aba "Triagem de Artigos"). Aqui, registre apenas o resumo quantitativo.*
 
-**Como as dúvidas foram resolvidas?** *(ex.: discussão em grupo, consulta ao orientador)*
+**Como as dúvidas foram resolvidas?**
 Após a remoção das 2 duplicatas, o grupo avaliou os 12 artigos únicos por título e resumo. O único artigo classificado como "Dúvida" foi discutido pela equipe para verificar se apresentava métricas de latência e complexidade de busca vetorial; com a confirmação desses dados na metodologia, ele foi promovido para inclusão, totalizando 7 artigos encaminhados para leitura completa.
 
 *Responsável(is) por esta triagem: Leonel, Caio, Matheus, Fillipy e Leonardo*
@@ -151,14 +145,11 @@ Após a remoção das 2 duplicatas, o grupo avaliou os 12 artigos únicos por t�
 3. PINHEIRO, Rafael F.; LIMA, Karla Roberta P. S. Canopy-Guided Construction of ANN Search Graphs under Cosine Similarity. In: Anais do XXI Simpósio Brasileiro de Sistemas de Informação (SBSI). Porto Alegre: SBC, 2025. p. 1–12. Disponível em: SBC Open Lib - SBSI: https://sol.sbc.org.br/index.php/sbsi/article/view/41327
 4. BRAKES, Matheus F. C. et al. Uma Arquitetura de RAG com Busca Semântica e Filtros Estruturados para Perguntas e Respostas no Domínio Jurídico. In: Anais da Escola Regional de Informática de Goiás (ERIGO / SBC). Porto Alegre: SBC, 2024. p. 1–14. Disponível em: SBC Open Lib - ERIGO: https://sol.sbc.org.br/index.php/erigo/article/view/39531
 5. SILVA, João Gabriel J. da; OLIVEIRA, Sávio S. T. de; GALVÃO FILHO, Arlindo R. Accelerating RAG Systems: A Performance-Oriented Systematic Mapping. In: Anais do Encontro Nacional de Inteligência Artificial e Computacional (ENIAC / SBC). Porto Alegre: SBC, 2024. p. 1–13. Disponível em: SBC Open Lib - ENIAC: https://sol.sbc.org.br/index.php/eniac/article/view/38722
-
-*(Adicione quantas linhas forem necessárias.)*
-
 ---
 
 ## 4. Contribuição Individual dos Integrantes
 
-> **Importante:** cada integrante deve descrever, com suas próprias palavras, o que efetivamente fez em cada passo desta etapa. Contribuições genéricas como "ajudei em tudo" não serão aceitas. Use verbos de ação e seja específico (ex.: "executei a busca no IEEE Xplore com a string 2 e obtive 84 resultados; fiz a triagem por título/resumo de 40 desses").
+> **Importante:** cada integrante deve descrever, com suas próprias palavras, o que efetivamente fez em cada passo desta etapa. Contribuições genéricas como "ajudei em tudo" não serão aceitas. Use verbos de ação e seja específico.
 
 ### Integrante 1 — `Caio Siqueira Santos`
 - **Passo(s) em que atuou:** 1, 2, 3, 5, 6 e 7
@@ -220,8 +211,6 @@ Após a remoção das 2 duplicatas, o grupo avaliou os 12 artigos únicos por t�
 | Fillipy | 15% |
 | Matheus | 8% |
 | Elton | 5% |
-
-*A soma das porcentagens deve ser igual a 100%. Divergências de percepção sobre a participação devem ser discutidas em grupo antes do envio — o orientador pode solicitar esclarecimentos individuais em caso de disparidade relevante.*
 
 ---
 
