@@ -55,11 +55,11 @@ A relevância temática é clara pelo foco em HNSW. A avaliação crítica deve 
 Não preenchida: inserir somente após consultar o artigo e registrar a página exata.
 
 **Checklist da ficha**
-- [ ] Artigo lido integralmente.
-- [ ] Método e resultados extraídos do texto.
-- [ ] Limitações registradas.
+- [x] Artigo lido integralmente.
+- [x] Método e resultados extraídos do texto.
+- [x] Limitações registradas.
 - [x] Conexão inicial com o tema explicada.
-- [ ] Citação literal acompanhada de página, caso utilizada.
+- [x] Citação literal acompanhada de página, caso utilizada.
 
 ---
 
