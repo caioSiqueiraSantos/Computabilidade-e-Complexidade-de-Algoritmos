@@ -22,6 +22,7 @@ Analisar comparativamente a complexidade computacional (tempo e espaço), o cons
 ## Quadro de alinhamento
 
 | Elemento | Texto |
+| --- | --- |
 | Problema | Como a literatura compara a complexidade computacional, o uso de memória, a escalabilidade e a qualidade (Recall@k e latência) entre os algoritmos de busca vetorial (k-NN exato, HNSW e IVF) em chatbots RAG para suporte interno de TI? |
 | Objetivo geral | Analisar comparativamente a complexidade computacional (tempo e espaço), o consumo de memória, a escalabilidade e a qualidade de recuperação (Recall@k e latência) dos algoritmos de busca vetorial k-NN exato, HNSW e IVF na recuperação de informação de sistemas RAG para suporte interno de TI, com o propósito de evidenciar os principais trade-offs algorítmicos necessários ao dimensionamento eficiente de bases de conhecimento corporativas. |
 | Resultado esperado | Avaliar os trade-offs operacionais e a escalabilidade dos três algoritmos para orientar o dimensionamento eficiente de bases vetoriais em ambientes corporativos de Helpdesk. |
