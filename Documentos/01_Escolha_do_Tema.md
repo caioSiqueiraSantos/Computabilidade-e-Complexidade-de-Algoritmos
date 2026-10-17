@@ -53,6 +53,7 @@ Tema delimitado e justificativa.
 ## Contribuições
 
 | Integrante | Atividade realizada |
+| --- | --- |
 | Caio Siqueira Santos | Pesquisou a fundamentação teórica sobre k-NN exato (força bruta) e redigiu a justificativa de relevância. |
 | Elton Dos Santos Rodrigues | Estruturou o afunilamento do tema e elaborou a formulação da problemática central. |
 | Fillipy Mendes Vilela | Mapeou a viabilidade técnica e levantou dados de complexidade do algoritmo HNSW (grafos). |
