@@ -40,6 +40,7 @@ Pergunta de pesquisa aprovada.
 ## Contribuições
 
 | Integrante | Atividade realizada |
+| --- | --- |
 | Elton Dos Santos Rodrigues | Formulou a redação inicial da pergunta de pesquisa focando nas variáveis de desempenho e complexidade. |
 | Leonel Santos Caires | Refinou a pergunta delimitando o escopo estritamente ao que a literatura científica compara. |
 | Caio Siqueira Santos | Redigiu a verificação da viabilidade de resposta por meio de artigos teóricos e experimentais. |
